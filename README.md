@@ -223,13 +223,10 @@ Voice-Based Concept Understanding Analyzer
 
 Artificial Intelligence | Machine Learning | Speech Processing
 
-**University**
-
-Mohan Babu University
 
 **Department**
 
-Computer Science and Engineering (AI & ML)
+Computer Science and Engineering (DS)
 
 ---
 
@@ -246,13 +243,6 @@ Computer Science and Engineering (AI & ML)
 
 ---
 
-## 👨‍💻 Developed By
-
-**T. A. Karthik**
-
-B.Tech Computer Science & Engineering (AI & ML)
-
-Mohan Babu University
 
 ---
 
@@ -266,7 +256,6 @@ This project is developed for educational and academic purposes.
 
 - SmartBridge
 - Skill Wallet
-- Mohan Babu University
 - Streamlit
 - OpenAI Whisper
 - Sentence Transformers
